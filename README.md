@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 831 · **Forks**: 78 · **Open issues**: 356 · **Contributors**: 12
+- **Stars**: 832 · **Forks**: 78 · **Open issues**: 357 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 19 · **Open PRs**: 6 · **Closed issues**: 204 · **Open issues**: 152 · **Commits**: 1046
+- **Releases**: 0 · **Merged PRs**: 19 · **Open PRs**: 6 · **Closed issues**: 204 · **Open issues**: 153 · **Commits**: 1046
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 2 | 2 | 2 | 0 |
-| last60d | 2026-08-27 | 0 | 0 | 3 | 2 | 4 | 0 |
-| 90d | 2026-07-28 | 0 | 0 | 4 | 2 | 4 | 0 |
-| last180d | 2026-04-29 | 0 | 1 | 4 | 3 | 5 | 10 |
-| 360d | 2025-10-31 | 0 | 2 | 4 | 3 | 7 | 11 |
-| last720d | 2024-11-05 | 0 | 4 | 5 | 12 | 8 | 89 |
+| 30d | 2026-09-27 | 0 | 0 | 2 | 2 | 3 | 0 |
+| last60d | 2026-08-28 | 0 | 0 | 3 | 2 | 5 | 0 |
+| 90d | 2026-07-29 | 0 | 0 | 4 | 2 | 5 | 0 |
+| last180d | 2026-04-30 | 0 | 1 | 4 | 3 | 6 | 10 |
+| 360d | 2025-11-01 | 0 | 2 | 4 | 3 | 8 | 11 |
+| last720d | 2024-11-06 | 0 | 4 | 5 | 12 | 9 | 89 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ack3 lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:29:35Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:48:59Z._
