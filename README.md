@@ -30,9 +30,9 @@ Overall score: **2.9 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 4/21 approved changesets -- score normalized to 1
 - **Maintained** (1/10) — 1 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-11 | 0 | 0 | 2 | 0 | 3 | 0 |
-| 90d | 2026-08-12 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last180d | 2026-05-14 | 0 | 1 | 4 | 1 | 5 | 10 |
-| 360d | 2025-11-15 | 0 | 2 | 4 | 1 | 7 | 11 |
-| last720d | 2024-11-20 | 0 | 4 | 5 | 9 | 8 | 89 |
+| 30d | 2026-10-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-12 | 0 | 0 | 2 | 0 | 3 | 0 |
+| 90d | 2026-08-13 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last180d | 2026-05-15 | 0 | 1 | 4 | 0 | 5 | 10 |
+| 360d | 2025-11-16 | 0 | 2 | 4 | 1 | 7 | 11 |
+| last720d | 2024-11-21 | 0 | 4 | 5 | 9 | 8 | 89 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ack3 lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:03:01Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T05:54:40Z._
