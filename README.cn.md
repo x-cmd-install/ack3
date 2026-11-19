@@ -26,13 +26,13 @@ x install ack3
 
 ## OpenSSF Scorecard 评分
 
-总评分: **2.9 / 10**
+总评分: **3.2 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 4/21 approved changesets -- score normalized to 1
-- **Maintained** (1/10) — 1 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 1
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -42,22 +42,22 @@ x install ack3
 
 ## 流行度
 
-- **Star**: 838 · **Fork**: 76 · **开放 issue**: 354 · **贡献者**: 12
+- **Star**: 838 · **Fork**: 76 · **开放 issue**: 355 · **贡献者**: 12
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 19 · **开放 PR**: 8 · **已关闭 issue**: 203 · **开放 issue**: 151 · **提交数**: 1049
+- **发布数**: 0 · **已合并 PR**: 19 · **开放 PR**: 8 · **已关闭 issue**: 203 · **开放 issue**: 152 · **提交数**: 1049
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 2 | 0 | 1 | 3 |
-| last60d | 2026-09-18 | 0 | 0 | 4 | 0 | 3 | 3 |
-| 90d | 2026-08-19 | 0 | 0 | 5 | 0 | 4 | 3 |
-| last180d | 2026-05-21 | 0 | 1 | 6 | 0 | 5 | 13 |
-| 360d | 2025-11-22 | 0 | 2 | 6 | 1 | 7 | 14 |
-| last720d | 2024-11-27 | 0 | 4 | 7 | 9 | 8 | 86 |
+| 30d | 2026-10-20 | 0 | 0 | 2 | 0 | 2 | 3 |
+| last60d | 2026-09-20 | 0 | 0 | 4 | 0 | 4 | 3 |
+| 90d | 2026-08-21 | 0 | 0 | 5 | 0 | 5 | 3 |
+| last180d | 2026-05-23 | 0 | 1 | 6 | 0 | 6 | 13 |
+| 360d | 2025-11-24 | 0 | 2 | 6 | 1 | 8 | 14 |
+| last720d | 2024-11-29 | 0 | 4 | 7 | 9 | 9 | 84 |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ ack3 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T07:52:06Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:09:10Z._
