@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 19 · **Open PRs**: 8 · **Closed issues**: 203 · **Open issues**: 152 · **Commits**: 1049
+- **Releases**: 0 · **Merged PRs**: 19 · **Open PRs**: 8 · **Closed issues**: 204 · **Open issues**: 151 · **Commits**: 1049
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 2 | 0 | 2 | 3 |
-| last60d | 2026-09-26 | 0 | 0 | 4 | 0 | 3 | 3 |
-| 90d | 2026-08-27 | 0 | 0 | 5 | 0 | 5 | 3 |
-| last180d | 2026-05-29 | 0 | 1 | 6 | 0 | 6 | 13 |
-| 360d | 2025-11-30 | 0 | 2 | 6 | 1 | 8 | 14 |
-| last720d | 2024-12-05 | 0 | 4 | 7 | 9 | 9 | 77 |
+| 30d | 2026-10-27 | 0 | 0 | 2 | 1 | 1 | 3 |
+| last60d | 2026-09-27 | 0 | 0 | 4 | 1 | 2 | 3 |
+| 90d | 2026-08-28 | 0 | 0 | 5 | 1 | 4 | 3 |
+| last180d | 2026-05-30 | 0 | 1 | 6 | 1 | 5 | 13 |
+| 360d | 2025-12-01 | 0 | 2 | 6 | 2 | 7 | 14 |
+| last720d | 2024-12-06 | 0 | 4 | 7 | 10 | 8 | 77 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for ack3 lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:13:13Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:01:13Z._
